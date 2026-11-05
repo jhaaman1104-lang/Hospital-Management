@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>UpdateDoctor</title><%@ include file="../common.jsp" %></head><body><div class="container py-5"><h2>UpdateDoctor</h2><p>This page is reserved for the next CRUD enhancement.</p><a href="../Dashboard.jsp">← Dashboard</a></div></body></html>
